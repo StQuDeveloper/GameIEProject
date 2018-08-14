@@ -9,7 +9,7 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        //Hallo ERNINOIHIOFHIOHGIOGHDSUPGUGFUIPGCFishdowdwqdhjwqdhowqdqwdqw EREN KAKT
+        //Hallo ERNINOIHIOFHIOHGIOGHDSUPGUGFUIPGCFishdowdwqdhjwqdhowqdqwdqw EREN KAKT in die Hose des Lewons NELE HARIHOKASE!
         int eier =3;
     }
 }
